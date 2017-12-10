@@ -1,0 +1,7 @@
+#Mon Nov 27 12:13:32 ICT 2017
+base.0=D\:\\android\\android-fundamentals-starter-apps-master\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e78e454e11497ad777dfec751ebd0869e155314a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\android\\android-fundamentals-starter-apps-master\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_52703462d8ac78f721d8f1c7d043a3922398791a\\classes.dex
+base.1=D\:\\android\\android-fundamentals-starter-apps-master\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_52703462d8ac78f721d8f1c7d043a3922398791a
+file.0=D\:\\android\\android-fundamentals-starter-apps-master\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e78e454e11497ad777dfec751ebd0869e155314a\\classes.dex

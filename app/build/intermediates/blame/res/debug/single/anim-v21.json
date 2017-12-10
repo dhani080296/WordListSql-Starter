@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android\\android-fundamentals-starter-apps-master\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\ahmad\\.android\\build-cache\\ba7ffba5900155a21c6e8c5f43140d20b1951fd6\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "D:\\android\\android-fundamentals-starter-apps-master\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\ahmad\\.android\\build-cache\\ba7ffba5900155a21c6e8c5f43140d20b1951fd6\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\android\\android-fundamentals-starter-apps-master\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\ahmad\\.android\\build-cache\\ba7ffba5900155a21c6e8c5f43140d20b1951fd6\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    }
+]

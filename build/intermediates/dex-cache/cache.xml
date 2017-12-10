@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmad\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\android\android-fundamentals-starter-apps-master\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_f3d2b27f53fe4c14863f8d9d3709c741175f257d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmad\.android\build-cache\8ede5a64f5d945a4e4a32c0a7c445095cf2d3fa7\output\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\android\android-fundamentals-starter-apps-master\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_7d1d91470682655558a67f7e894e928913afcbe8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmad\.android\build-cache\327562b69f46ba491bb2fd86e804a4443b3a3cbf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="D:\android\android-fundamentals-starter-apps-master\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e19e7b403317f8c488380c18c46cc9d2da1ca66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmad\.android\build-cache\ba7ffba5900155a21c6e8c5f43140d20b1951fd6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="D:\android\android-fundamentals-starter-apps-master\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b12cd824e8bc096eb5f4cd96f7540b34c500f6e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\android-fundamentals-starter-apps-master\WordListSql-Starter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b8bdfe18c64091b5f1f72f4ea31801c4a196e0c7">
+        <dex dex="D:\android\android-fundamentals-starter-apps-master\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e78e454e11497ad777dfec751ebd0869e155314a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmad\.android\build-cache\8ede5a64f5d945a4e4a32c0a7c445095cf2d3fa7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\android\android-fundamentals-starter-apps-master\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dbcf1ad126be2c79f9fa4a1ef2ad40560d1cba1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmad\.android\build-cache\ae367abc81cbd716d3cbd1939cab898a6912317f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="D:\android\android-fundamentals-starter-apps-master\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f02590aea3c27599a6d598e746202b5df6b1c273\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmad\.android\build-cache\d19599b2cbe2440e392f7093243c4f558b79651d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="D:\android\android-fundamentals-starter-apps-master\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a4b9b0e7b7c6900f6c1ded64f4e8ea672f6f6fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ahmad\.android\build-cache\65ba0049ee80c53c5f26e39485b2e923d743918e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="D:\android\android-fundamentals-starter-apps-master\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_103e2c8c778205001ccf247ee20bd46b79c95a7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\android-fundamentals-starter-apps-master\WordListSql-Starter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="D:\android\android-fundamentals-starter-apps-master\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_52703462d8ac78f721d8f1c7d043a3922398791a\classes.dex" />
+    </item>
+
+</items>
